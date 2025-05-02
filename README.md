@@ -65,19 +65,7 @@ All algorithms are supported with clear and intuitive **matplotlib animations** 
 - Python (OpenCV, NumPy, Matplotlib, Scikit-learn)
 - C++ for CL-CBS integration
 - Arduino for hardware control
-- YAML for configuration and data sharing
-
----
-
-## Algorithms & Concepts
-
-- Conflict-Based Search (CBS)
-- A* Search
-- SLAM (Simultaneous Localization and Mapping)
-- PID Control (Proportional–Integral–Derivative)
-- Agglomerative Hierarchical Clustering
-- Heuristic Optimization
-
+  
 ---
 
 ## Getting Started
